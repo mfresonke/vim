@@ -9,3 +9,9 @@ Clone the repo
 
 Symlink .vimrc
 `ln -s ~/.vim/vimrc ~/.vimrc`
+
+## Awesome Tutorial
+https://danielmiessler.com/study/vim/
+
+### Other Resources
+ - Interactive Vim Tutorial: http://www.openvim.com/
